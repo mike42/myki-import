@@ -1,4 +1,4 @@
-Myki import
+myki import
 -----------
 
 "myki" is the public transport ticketing system in Melbourne. The system issues statements as PDF files.
